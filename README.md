@@ -2,9 +2,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-![Followers](https://img.shields.io/github/followers/Onzero?style=social)
-![Stars](https://img.shields.io/github/stars/Onzero?affiliations=OWNER&style=social)
-![Contributions](https://img.shields.io/github/commit-activity/m/Onzero/REPO_NAME)
+![Trophy](https://github-profile-trophy.vercel.app/?username=OnZero)
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
