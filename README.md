@@ -1,8 +1,6 @@
 <div id="title" align=center>
 
 ![Modern C++ template][github-sub-title:img]
-
-！[GitHub账户信息统计](https://github-stats.ubrong.com/api?username=OnZero&amp;show_icons=true&amp;theme=tokyonight)
 [![OnZero GitHub stats](https://github-readme-stats.vercel.app/api?username=OnZero&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
