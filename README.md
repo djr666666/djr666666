@@ -2,7 +2,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![OnZero GitHub stats](https://github-readme-stats.vercel.app/api?username=OnZero&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+![GitHub Stats](https://github-readme-stats-git-master.vercel.app/api?username=Onzero&show_icons=true&theme=radical)
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
