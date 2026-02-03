@@ -1,12 +1,10 @@
 <div id="title" align=center>
 
 ![Modern C++ template][github-sub-title:img]
-## 📊 GitHub Stats
-- **Repositories:** 42
-- **Stars:** 150
-- **Followers:** 89
-- **Contributions:** 1200+
-![GitHub Stats](https://github-readme-stats-git-master.vercel.app/api?username=Onzero&show_icons=true&theme=radical)
+
+![Followers](https://img.shields.io/github/followers/Onzero?style=social)
+![Stars](https://img.shields.io/github/stars/Onzero?affiliations=OWNER&style=social)
+![Contributions](https://img.shields.io/github/commit-activity/m/Onzero/REPO_NAME)
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
