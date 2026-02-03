@@ -1,8 +1,7 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
+![Modern C# template][github-sub-title:img]
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=OnZero)
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
